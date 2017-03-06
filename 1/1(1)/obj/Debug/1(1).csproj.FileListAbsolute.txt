@@ -1,0 +1,9 @@
+F:\CyberBionic\C# Essential\HT\1(1)\1\1(1)\bin\Debug\1(1).exe.config
+F:\CyberBionic\C# Essential\HT\1(1)\1\1(1)\bin\Debug\1(1).exe
+F:\CyberBionic\C# Essential\HT\1(1)\1\1(1)\bin\Debug\1(1).pdb
+F:\CyberBionic\C# Essential\HT\1(1)\1\1(1)\obj\Debug\1(1).csprojResolveAssemblyReference.cache
+F:\CyberBionic\C# Essential\HT\1(1)\1\1(1)\obj\Debug\1(1).exe
+F:\CyberBionic\C# Essential\HT\1(1)\1\1(1)\obj\Debug\1(1).pdb
+F:\CyberBionic\C# Essential\HT\1\1(1)\bin\Debug\1(1).exe.config
+F:\CyberBionic\C# Essential\HT\1\1(1)\obj\Debug\1(1).exe
+F:\CyberBionic\C# Essential\HT\1\1(1)\obj\Debug\1(1).pdb
