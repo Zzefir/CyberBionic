@@ -1,0 +1,6 @@
+F:\CyberBionic\C# Essential\HT\2\task2\bin\Debug\task2.exe.config
+F:\CyberBionic\C# Essential\HT\2\task2\bin\Debug\task2.exe
+F:\CyberBionic\C# Essential\HT\2\task2\bin\Debug\task2.pdb
+F:\CyberBionic\C# Essential\HT\2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+F:\CyberBionic\C# Essential\HT\2\task2\obj\Debug\task2.exe
+F:\CyberBionic\C# Essential\HT\2\task2\obj\Debug\task2.pdb
