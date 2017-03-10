@@ -10,6 +10,17 @@ namespace task2
     {
         static void Main(string[] args)
         {
+            Pupil p1 = new BadPupil();
+            Pupil p2 = new ExcelentPupil();
+
+            ClassRoom group = new ClassRoom(p1, p2); 
+
+            group.Study();
+            group.Read();
+            group.Write();
+            group.Relax();
+
+            Console.ReadKey();
         }
     }
 }
