@@ -10,6 +10,14 @@ namespace task4
     {
         static void Main(string[] args)
         {
+            Invoice inv = new Invoice(132414, "Samsung", "Rozetka");
+
+            inv.Article = "phone";
+            inv.Quantity = 3;
+
+            inv.Cost(false);
+
+            Console.ReadKey();
         }
     }
 }
